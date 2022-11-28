@@ -6,5 +6,11 @@ O trabalho consiste na resolução de uma questão do livro no assunto de estát
 # Questão escolhida
 
 <div align="center"> 
-  <img width="1000em" src="UML.png"/>
+  <img width="500em" src="TrabalhoMecanica/tt.png"/>
+</div>
+
+# Interface do programa
+
+<div align="center"> 
+  <img width="700em" src="TrabalhoMecanica/fotoDoTrabalhoDeMEcanica.png"/>
 </div>
